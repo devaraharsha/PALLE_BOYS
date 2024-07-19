@@ -1,4 +1,8 @@
 HELLO GUYS
+<<<<<<< HEAD
 kurrollu
 ihfiuwe\poiefowe
 
+=======
+this is from snv pg
+>>>>>>> 45915a5d406be2efe1c7720060011f2159cf1a7c
